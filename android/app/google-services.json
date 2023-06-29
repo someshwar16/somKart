@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "455540765439",
+    "project_id": "som-kart",
+    "storage_bucket": "som-kart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455540765439:android:9636d35522806f6a9fd2ca",
+        "android_client_info": {
+          "package_name": "com.example.som_kart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455540765439-h3sgo3r26cmjp9chtcjglso4s14h3glv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.som_kart",
+            "certificate_hash": "225d5814ddd98fb67af4f1bdcb01f908e9d870a5"
+          }
+        },
+        {
+          "client_id": "455540765439-8u09nme7kjtn4015og4ju749ja7cs28p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfdFtZqXaZqFHDVXDlBh58EcdllULsOmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455540765439-8u09nme7kjtn4015og4ju749ja7cs28p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
