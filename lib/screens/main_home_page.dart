@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-
 import 'package:som_kart/const/AppColor.dart';
 import 'package:som_kart/screens/NavBarPages/cart.dart';
 import 'package:som_kart/screens/NavBarPages/favorite.dart';
