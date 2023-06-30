@@ -1,21 +1,17 @@
-<<<<<<< HEAD
-# somKart
-E-commerce flutter app  
-=======
-# som_kart
+Hello!! This is an e-commerce app with basic UI and backend services with the help of Firebase.
+The application's backbone is Flutter.
+Flutter is very flexible as the same codebase is maintained for every platform such as Android, IOS, Linux, etc.
 
-A new Flutter project.
+My application is called Som Kart. It has a basic user-friendly UI, full backend support. It has a SignIn, SignUp, Home pages, and many more. 
+This application can be developed and can be improved.   
+For state management, I have used Flutter GetX. Because it has a lot of features and is easy to use.
 
-## Getting Started
+Here are instructions to  run my Som Kart:-
 
-This project is a starting point for a Flutter application.
+Step 1:- Install the application.⏭️
+Step 2:- For new users sign up by clicking on the SignUp button.⏭️
+Step 3:- Register yourself and you will enter the application.⏭️
+Step 4:- Now you can explore the application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 4f8faf9 (First Commit)
+Thank You 
+Someshwar Karmakar 👨‍💻
