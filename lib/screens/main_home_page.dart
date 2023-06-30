@@ -1,9 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:get/get.dart';
-import 'package:som_kart/Hometabs/CatogeryCard.dart';
-import 'package:som_kart/Hometabs/DiscountCard.dart';
-import 'package:som_kart/Hometabs/SearchBar1.dart';
+
 import 'package:som_kart/const/AppColor.dart';
 import 'package:som_kart/screens/NavBarPages/cart.dart';
 import 'package:som_kart/screens/NavBarPages/favorite.dart';
@@ -24,6 +21,7 @@ class _MainHomePageState extends State<MainHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       bottomNavigationBar: BottomNavigationBar(
+        currentIndex: currentIndex,
         selectedItemColor: AppColors.energy_yellow,
         unselectedItemColor: Colors.white,
         selectedLabelStyle: TextStyle(
