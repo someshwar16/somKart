@@ -5,8 +5,7 @@ import 'package:som_kart/LoginTabs/LoginWelcome.dart';
 import 'package:som_kart/const/AppColor.dart';
 import 'package:get/get.dart';
 import 'package:som_kart/const/custom_text_bar.dart';
-import 'package:som_kart/const/firebase_const.dart';
-import 'package:som_kart/controllers/firebase_controller.dart';
+
 import 'package:som_kart/screens/main_home_page.dart';
 import 'package:som_kart/screens/UserDetail.dart';
 
@@ -117,7 +116,6 @@ signUp() async {
 }
 
 class _SignUpFormState extends State<SignUpForm> {
-  var controller = Get.put(AuthController());
   //text controller
 
   @override

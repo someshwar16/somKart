@@ -4,7 +4,6 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get.dart';
 import 'package:som_kart/const/AppColor.dart';
 import 'package:som_kart/const/custom_text_bar.dart';
-import 'package:som_kart/controllers/firebase_controller.dart';
 import 'package:som_kart/screens/main_home_page.dart';
 import 'package:som_kart/screens/LoginScreen.dart';
 
@@ -85,7 +84,6 @@ class SignForm extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    var controller = Get.put(AuthController());
     return Form(
       key: _formKey,
       child: Padding(
